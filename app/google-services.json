@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402501198277",
+    "project_id": "practicafactuzone",
+    "storage_bucket": "practicafactuzone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402501198277:android:dd27d6f63c8a48569eabac",
+        "android_client_info": {
+          "package_name": "com.example.practicafactuzone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeZzZz54LqCZ8UgG6pRWg43EhVmFY4_PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
